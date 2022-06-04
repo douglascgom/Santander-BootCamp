@@ -1,0 +1,61 @@
+body{
+    background: rgb(228, 226, 226);
+    font-family:  Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+.foto{
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+#title, .sub-title, .post-title {
+    color: rgb(35, 35, 37);
+}
+
+#title{
+    font-size: 35px;
+    text-transform: uppercase;
+
+}
+.texto {
+   text-decoration: line; 
+   font-weight: bold;
+   color: black;
+}
+
+.post-title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: white;
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.postcontent{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.postimage{
+    margin-bottom: 15px;
+    bord
+}
+
+.contatolista{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contatolista li a {
+    text-decoration:  none;
+}
