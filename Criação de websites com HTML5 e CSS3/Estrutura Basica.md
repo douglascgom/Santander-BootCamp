@@ -41,3 +41,13 @@ O elemento ul cria uma lista não ordenada, onde a ordem dos elementos não é i
 O <ol> serve para criar lista ordenadas, nessas a ordem importa, portanto elas são representadas com números, algarismos romanos ou letras.
 
 E o elemento li é um item dentro de uma dessas listas. Um <li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
+
+CSS 3
+Definição e seletores
+
+Foi criada a linguagem de estilo que conhecemos por CSS.
+A sintaxe é bem simples e pode ser explicada com a frase "você cria regras de estilo para elementos ou grupos de elementos".
+
+Para externar um arquivo CSS 
+
+//<link rel="stylesheet" href="style.css">
